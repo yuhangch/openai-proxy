@@ -1,5 +1,4 @@
-name = "template"
-account_id = ""
+name = "openai-proxy"
 usage_model = "bundled"
 workers_dev = true
 compatibility_date = "2022-10-03"
