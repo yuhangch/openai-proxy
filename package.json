@@ -1,7 +1,7 @@
 {
-  "name": "reflare-template",
+  "name": "openai-proxy",
   "version": "1.0.0",
-  "description": "🚀 The template to kickstart Reflare",
+  "description": "🚀 An openai api proxy based on Cloudflare Workers & Reflare",
   "main": "dist/worker.js",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "deploy": "wrangler publish",
     "lint": "eslint . --fix --ext .ts"
   },
-  "author": "Xiaoyang Liu <siujoeng.lau@gmail.com>",
+  "author": "Yuhang Chen <hi@yuhang.ch>",
   "license": "MIT",
   "devDependencies": {
     "@cloudflare/workers-types": "^3.16.0",
