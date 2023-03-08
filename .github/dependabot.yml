@@ -9,8 +9,8 @@ updates:
     time: "12:00"
   open-pull-requests-limit: 10
   reviewers:
-  - xiaoyang-sde
+  - yuhangch
   assignees:
-  - xiaoyang-sde
+  - yuhangch
   labels:
   - dependencies
