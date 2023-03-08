@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/yuhangch/openai-proxy/master/.github/img/header.jpg)
+![Header](https://raw.githubusercontent.com/yuhangch/openai-proxy/master/.github/img/header.png)
 
 :rocket:  The template to deploy an openai api proxy to [Cloudflare Workers](https://developers.cloudflare.com/workers/). The `src/index.ts` file contains the route definitions of Reflare. The documentation of Reflare can be found [here](https://github.com/xiaoyang-sde/reflare).
 
